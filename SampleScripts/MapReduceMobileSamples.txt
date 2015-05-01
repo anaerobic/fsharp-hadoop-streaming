@@ -1,0 +1,41 @@
+http://localhost:50070/ 
+http://localhost:50030/ 
+
+
+SECURITY
+hadoop fs -chown -R %username% /tmp
+hadoop fs -chown -R %username% /hdfs 
+hadoop namenode -format
+
+HADOOP FS
+hadoop fs -mkdir /mobile
+hadoop fs -mkdir /mobile/debug
+hadoop fs -mkdir /mobile/release
+
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataBrief.txt /mobile/debug/sampledata.txt
+
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataFull.txt /mobile/release/sampledata1.txt
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataFull.txt /mobile/release/sampledata2.txt
+
+hadoop fs -ls /mobile
+
+hadoop fs -rmr /mobile
+hadoop fs -rmr /mobile/querytimes
+hadoop fs -rmr /mobile/querytimes/release
+hadoop fs -rmr /mobile/querytimes/debug
+
+hadoop fs -cat job-name/*
+hadoop fs -getmerge job-name c:/job-name-local
+
+AZURE
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataBrief.txt asv://mobiledata/data/sampledata0.txt
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataFull.txt asv://mobiledata/data/sampledata1.txt
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Text\MobileSampleDataFull.txt asv://mobiledata/data/sampledata2.txt
+hadoop fs -lsr asv://mobiledata/data
+
+Map/Reduce
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopmobiledebug.cmd
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopmobilerelease.cmd
+
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopmobileazure.cmd
+

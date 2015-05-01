@@ -1,0 +1,27 @@
+http://localhost:50070/ 
+http://localhost:50030/ 
+
+
+SECURITY
+hadoop fs -chown -R %username% /tmp
+hadoop fs -chown -R %username% /hdfs 
+hadoop namenode -format
+
+HADOOP FS
+hadoop fs -mkdir /stores
+
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Xml\StoresBrief.xml /stores/demographics/StoresBrief.xml
+
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Xml\Stores.xml /stores/demographics/Stores1.xml
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Xml\Stores.xml /stores/demographics/Stores2.xml
+
+hadoop fs -ls /stores
+
+hadoop fs -rmr /stores
+hadoop fs -rmr /stores/banking
+
+
+Map/Reduce
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopstoresxmldebug.cmd
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopstoresxmlrelease.cmd
+

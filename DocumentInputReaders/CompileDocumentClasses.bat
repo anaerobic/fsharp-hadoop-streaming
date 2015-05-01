@@ -1,0 +1,1 @@
+C:\Apps\java\openjdk7\bin\javac -classpath c:\Apps\dist\hadoop-core-0.20.203.1-SNAPSHOT.jar;c:\Apps\dist\lib\commons-logging-1.1.1.jar;c:\Apps\dist\lib\commons-configuration-1.6.jar;c:\Apps\dist\lib\commons-lang-2.4.jar -d Classes Source\*.java

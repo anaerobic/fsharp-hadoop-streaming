@@ -1,0 +1,24 @@
+http://localhost:50070/ 
+http://localhost:50030/ 
+
+
+SECURITY
+hadoop fs -chown -R %username% /tmp
+hadoop fs -chown -R %username% /hdfs 
+hadoop namenode -format
+
+HADOOP FS
+hadoop fs -mkdir /office
+
+hadoop fs -copyFromLocal C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleData\Documents /office/documents
+
+hadoop fs -ls /office
+
+hadoop fs -rmr /office
+hadoop fs -rmr /office/authors
+
+
+Map/Reduce
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopofficedebug.cmd
+C:\Users\carlnol\Projects\FSharp.Hadoop.MapReduce\SampleScripts\hadoopofficerelease.cmd
+

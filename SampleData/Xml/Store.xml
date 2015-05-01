@@ -1,0 +1,20 @@
+  <Store>
+    <BusinessEntityID>294</BusinessEntityID>
+    <Name>Professional Sales and Service</Name>
+    <SalesPersonID>276</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1991</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>14</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <ModifiedDate>2008-10-13T11:15:07.497</ModifiedDate>
+  </Store>

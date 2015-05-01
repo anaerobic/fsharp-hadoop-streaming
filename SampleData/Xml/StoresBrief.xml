@@ -1,0 +1,842 @@
+﻿<Root>
+  <Store>
+    <BusinessEntityID>292</BusinessEntityID>
+    <Name>Next-Door Bike Store</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1996</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>13</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>294</BusinessEntityID>
+    <Name>Professional Sales and Service</Name>
+    <SalesPersonID>276</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1991</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>14</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>296</BusinessEntityID>
+    <Name>Riders Company</Name>
+    <SalesPersonID>277</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1999</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>15</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>298</BusinessEntityID>
+    <Name>The Bike Mechanics</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1994</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>16</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>300</BusinessEntityID>
+    <Name>Nationwide Supply</Name>
+    <SalesPersonID>286</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Guardian Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1987</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>17</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>302</BusinessEntityID>
+    <Name>Area Bike Accessories</Name>
+    <SalesPersonID>281</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1982</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>9000</SquareFeet>
+        <Brands>AW</Brands>
+        <Internet>T2</Internet>
+        <NumberEmployees>8</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>304</BusinessEntityID>
+    <Name>Bicycle Accessories and Kits</Name>
+    <SalesPersonID>283</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1990</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>7000</SquareFeet>
+        <Brands>AW</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>9</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>306</BusinessEntityID>
+    <Name>Clamps &amp; Brackets Co.</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1985</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>17000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>10</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>308</BusinessEntityID>
+    <Name>Valley Bicycle Specialists</Name>
+    <SalesPersonID>277</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1979</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>72000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>66</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>310</BusinessEntityID>
+    <Name>New Bikes Company</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1974</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>39000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>40</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>312</BusinessEntityID>
+    <Name>Vinyl and Plastic Goods Corporation</Name>
+    <SalesPersonID>282</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1980</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>41000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>43</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>314</BusinessEntityID>
+    <Name>Top of the Line Bikes</Name>
+    <SalesPersonID>288</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1986</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>40000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>46</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>316</BusinessEntityID>
+    <Name>Fun Toys and Bikes</Name>
+    <SalesPersonID>281</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1973</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>6000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>2</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>318</BusinessEntityID>
+    <Name>Great Bikes </Name>
+    <SalesPersonID>283</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1981</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>10000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>T3</Internet>
+        <NumberEmployees>3</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>320</BusinessEntityID>
+    <Name>Metropolitan Sales and Rental</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>Guardian Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1976</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>6000</SquareFeet>
+        <Brands>AW</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>4</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>322</BusinessEntityID>
+    <Name>Irregulars Outlet</Name>
+    <SalesPersonID>288</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>Primary International</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1984</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>7000</SquareFeet>
+        <Brands>AW</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>5</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>324</BusinessEntityID>
+    <Name>Valley Toy Store</Name>
+    <SalesPersonID>282</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>Reserve Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1979</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>9000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>6</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>326</BusinessEntityID>
+    <Name>Worthwhile Activity Store</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1987</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>8000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>7</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>328</BusinessEntityID>
+    <Name>Purchase Mart</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1992</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>38000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>49</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>330</BusinessEntityID>
+    <Name>Major Sport Suppliers</Name>
+    <SalesPersonID>283</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Reserve Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1998</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>68000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>52</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>332</BusinessEntityID>
+    <Name>Family's Favorite Bike Shop</Name>
+    <SalesPersonID>278</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Primary International</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1997</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>18</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>334</BusinessEntityID>
+    <Name>Global Plaza</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Reserve Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1975</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>19000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>19</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>336</BusinessEntityID>
+    <Name>Imported and Domestic Cycles</Name>
+    <SalesPersonID>276</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1000000</AnnualSales>
+        <AnnualRevenue>100000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>2000</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>24000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>20</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>338</BusinessEntityID>
+    <Name>Systematic Sales</Name>
+    <SalesPersonID>281</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Primary International</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1999</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>73000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>55</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>340</BusinessEntityID>
+    <Name>eCommerce Bikes</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Guardian Bank</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1999</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>69000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>58</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>342</BusinessEntityID>
+    <Name>Mountain Toy Store</Name>
+    <SalesPersonID>277</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>2000</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>17</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>344</BusinessEntityID>
+    <Name>Retail Sales and Service</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1994</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>14</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>346</BusinessEntityID>
+    <Name>Designated Distributors</Name>
+    <SalesPersonID>282</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1979</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>72000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>T2</Internet>
+        <NumberEmployees>61</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>348</BusinessEntityID>
+    <Name>Bold Bike Accessories</Name>
+    <SalesPersonID>276</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1999</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>72000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>58</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>350</BusinessEntityID>
+    <Name>Twin Cycles</Name>
+    <SalesPersonID>286</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1988</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>AW</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>11</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>352</BusinessEntityID>
+    <Name>Tiny Bike Boutique</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>300000</AnnualSales>
+        <AnnualRevenue>30000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1978</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>6000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>4</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>354</BusinessEntityID>
+    <Name>Acclaimed Bicycle Company</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1979</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>73000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>61</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>356</BusinessEntityID>
+    <Name>Serious Cycles</Name>
+    <SalesPersonID>278</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1996</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>71000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>64</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>358</BusinessEntityID>
+    <Name>Quality Bike Sales</Name>
+    <SalesPersonID>286</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Reserve Security</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1991</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>74000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>67</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>360</BusinessEntityID>
+    <Name>Novelty Bikes</Name>
+    <SalesPersonID>275</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Primary International</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1993</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>74000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>70</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>362</BusinessEntityID>
+    <Name>Distinctive Cycles Sales &amp; Service</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1995</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>75000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>79</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>364</BusinessEntityID>
+    <Name>Leading Bike Distributors</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>Reserve Security</BankName>
+        <BusinessType>BS</BusinessType>
+        <YearOpened>1978</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>18000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>T1</Internet>
+        <NumberEmployees>13</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>366</BusinessEntityID>
+    <Name>Activity Center</Name>
+    <SalesPersonID>279</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>Primary Bank &amp; Reserve</BankName>
+        <BusinessType>BS</BusinessType>
+        <YearOpened>1971</YearOpened>
+        <Specialty>Road</Specialty>
+        <SquareFeet>37000</SquareFeet>
+        <Brands>3</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>37</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>368</BusinessEntityID>
+    <Name>Brightwork Company</Name>
+    <SalesPersonID>281</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>1500000</AnnualSales>
+        <AnnualRevenue>150000</AnnualRevenue>
+        <BankName>International Security</BankName>
+        <BusinessType>BS</BusinessType>
+        <YearOpened>1979</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>36000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>ISDN</Internet>
+        <NumberEmployees>38</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>370</BusinessEntityID>
+    <Name>Resale Services</Name>
+    <SalesPersonID>276</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>United Security</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1988</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>16</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>372</BusinessEntityID>
+    <Name>The Gear Store</Name>
+    <SalesPersonID>277</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>800000</AnnualSales>
+        <AnnualRevenue>80000</AnnualRevenue>
+        <BankName>International Bank</BankName>
+        <BusinessType>BM</BusinessType>
+        <YearOpened>1982</YearOpened>
+        <Specialty>Mountain</Specialty>
+        <SquareFeet>21000</SquareFeet>
+        <Brands>2</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>14</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+  <Store>
+    <BusinessEntityID>374</BusinessEntityID>
+    <Name>Immense Manufacturing Company</Name>
+    <SalesPersonID>277</SalesPersonID>
+    <Demographics>
+      <StoreSurvey xmlns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/StoreSurvey">
+        <AnnualSales>3000000</AnnualSales>
+        <AnnualRevenue>300000</AnnualRevenue>
+        <BankName>Guardian Bank</BankName>
+        <BusinessType>OS</BusinessType>
+        <YearOpened>1998</YearOpened>
+        <Specialty>Touring</Specialty>
+        <SquareFeet>76000</SquareFeet>
+        <Brands>4+</Brands>
+        <Internet>DSL</Internet>
+        <NumberEmployees>73</NumberEmployees>
+      </StoreSurvey>
+    </Demographics>
+    <Modified>2008-10-13T11:15:07.497</Modified>
+  </Store>
+</Root>
